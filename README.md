@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Harold, A junior software Developer 👨‍💻</div>  
+### <div align="center">I'm Harold, A Junior Software Developer 👨‍💻</div>  
   
 
 - 🌱 I’m currently learning Java and Python  
