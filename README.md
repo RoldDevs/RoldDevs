@@ -55,6 +55,6 @@ trails of the digital wilderness together! 🌌 </p>
 
 <a href="https://github.com/GhostPoltergeist">
   <img alt="GhostPoltergeist Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostPoltergeist"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostPoltergeist&bg_color=151515&title_color=fff&icon_color=79ff9"
        height="192px"/>
 </a>
